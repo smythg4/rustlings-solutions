@@ -1,0 +1,6 @@
+# .gitignore
+Cargo.lock
+target/
+.vscode/
+.DS_Store
+solutions/
